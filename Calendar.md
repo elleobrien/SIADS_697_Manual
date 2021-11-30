@@ -2,7 +2,7 @@
 
 The Capstone has three stages as far as the instructional team is concerned: (1) team formation and project proposals, (2) WORK! and (3) grade. 
 
-## Team formation and project proposals
+## Phase 1: Team formation and project proposals
 ### 6-8 weeks before 697 starts
 - I ask MADS Tech to create 3 channels in Slack for enrolled students, `siads697_<term>_001`, `siads697_<term>_001_standups`, and `siads697_<term>_001_team_matching`.
 - I announce in `#general` that students need to be enrolled in 697 to join the team-matching process, as project proposals need to be submitted 1 month in advance of the official class date. 
@@ -26,10 +26,10 @@ _Note:_ We have never flagged a project/team as unready for the Capstone. Even w
 
 _Note:_ The intention of the channels and the advisor assignment is to streamline communication and prevent DMs to single instructors. If students have a team channel, they can drop all messages about the project that need instructor input there. And because all instructors are in the channel, we can learn from one another's responses. Students can contact any member of the instructional team at any time, but their advisor is meant to be their "first responder". This also helps distribute questions equitably among instructors. Some gentle nudging may still be required to get communications really on track- if students are posting questions that are of general interest, I encourage them to post in the main Slack channel. And if they are DMing me I ask them to re-ask the question in their `capstone-` channel and don't answer until they do.
 
-## WORK! 
+## Phase 2: WORK! 
 Throughout the official 8 weeks of the Capstone, there are few grading-heavy steps. But expect questions and meeting requests from your advisees. Some groups will want to meet once a week; others will want to be almost entirely independent. Personally, I share my calendly account with students and allow them to set up appointments as needed. I have not had any issues with students overusing this resource. 
 
-The main events are standups and midway check-in meetings. 
+The main events are standups and midway check-in meetings. The course has been run with 3 or 4 standups (Summer 2021 and Fall 2021 respectively); both seem to work. It is not important what week the standups are exactly, as long as they occur semi-regularly! You may have to move them around based on the academic calendar (to accommodate breaks and holidays). 
 
 ### First week
 - Students enter the course shell on Coursera. They watch videos about the project, the deliverables, how to do a standup, etc.
@@ -71,8 +71,17 @@ _Note:_ By the midway check-in, students should be well on their way through dat
 - Students are asked to leave comments on at least 2 other group's videos by Friday.
 - Instructors should leave comments on videos too! 
 - At the end of the week, students give an update about their progress in a brief Coursera assignment.
-- Students deliver their final work. Project is due!
+- Students deliver their final work in a spreadsheet linked on Coursera. Project is due!
 
+## Phase 3: Grade!
+Because turnaround times for grades must be fast to comply with university & department policies, this part can be hectic. There is extra pressure because this is THE final course before graduation! The goal is to turnaround grades within 1 week. 
+
+- Assign 2 reviewers to each proposal.
+- Each reviewer scores the proposal according to a rubric and leaves comments (about a paragraph but more is welcome).
+- The final score is the average of both reviewer's scores. If there is a big difference, reviewers may sync up to check their thoughts.
+- Scores are generally high (85%-100%). I have tried offering bonus points, but I am interested in moving away from this practice as it can encourage negotiating and bargaining if students aren't happy with their grade.
+- Scores according to the rubric and comments are submitted to students via Slackbot, as when proposals were reviewed. 
+- Final grades must be uploaded to Wolverine Access. 
 
 
 
